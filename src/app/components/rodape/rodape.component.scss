@@ -1,0 +1,24 @@
+/* FOOTER */
+
+footer {
+  background-color: #000000;
+  padding: 10px;
+}
+
+footer .footer_comercial {
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.5rem;
+;
+  font-family: "Poppins";
+}
+
+mat-icon {
+  color: #ffffff;
+}
+
+@media (max-width: 450px) {
+  footer {
+    padding: 30px 47px 30px 30px;
+  }
+}
